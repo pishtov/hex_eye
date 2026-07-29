@@ -1,6 +1,8 @@
 # HEX_EYE
 # author: bg0dmtl
 
+<img width="650" height="535" alt="image" src="https://github.com/user-attachments/assets/227ff3ad-734e-4fab-bc85-602c4315a0b1" />
+
 A command-line file inspection and hex analysis tool.
 Inspect, probe, and analyze any unknown binary or text-based file directly from the terminal.
 
